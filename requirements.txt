@@ -1,0 +1,4 @@
+
+Pillow
+# Optional for HEIC/HEIF (install to enable):
+# pillow-heif>=0.16.0
